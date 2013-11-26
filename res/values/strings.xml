@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music NFC Transfer</string>
+    <string name="prepared_text">Music NFC Transfer prepared.\nPlease back-to-back devices.</string>
+
+</resources>
